@@ -7,7 +7,9 @@
 * declare variables named `first_name`, `last_name`, and `birth_place`.
 * Fill out the values for these with your own data or make it up. It should contain a String
 **/
-
+var first_name= "shawn"; 
+var last_name= "coen";
+var birth_place="honolulu";
 
 
 /**
