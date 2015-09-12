@@ -19,6 +19,9 @@ var birth_place="honolulu";
 * declare variables named `favorite_number`, `current_year`, and `that_one_prince_song`.
 * Their values should be a Number
 **/
+var favorite_number=45;
+var current_year=2015;
+var that_one_prince_song=1999;
 
 
 
