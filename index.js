@@ -60,7 +60,25 @@
 
 
 /**
-* #6a
+* #6a Arithmetic
+*/
+
+
+
+/**
+* #6b Comparisons & Logic
+*/
+
+
+
+/**
+* #6c Assignments
+*/
+
+
+
+/**
+* #7a
 * Declare Functions
 *
 * declare a Function named `jump` which takes a single argument, `height`
@@ -74,7 +92,7 @@
 
 
 /**
-* #6b
+* #7b
 * Declare Functions
 *
 * declare a Function named `cook` which a takes a three arguments, `ingredient1`, `ingredient2`, `recipeName`
@@ -86,9 +104,9 @@
 
 
 /**
-* #6c
+* #7c
 * Declare Functions
 *
-* declare variables named `favorite_number`, `current_year`, and `that_one_prince_song`.
+* declare Function named
 * Their values should be a Number
 **/
